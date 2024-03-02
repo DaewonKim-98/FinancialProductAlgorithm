@@ -5,7 +5,8 @@
 <br>
 
 # 프로젝트 일정 및 역할 분배
-![Alt text](images/image-1.png)
+![Uploading image.png…]()
+
 - 프로젝트 기간에 맞게 단계별로 꾸준히 구현 및 테스트 보완하였습니다.   
 
 <br>
