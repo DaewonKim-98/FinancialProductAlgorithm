@@ -13,32 +13,32 @@
 # 설계 내용
 ## 개발 환경 및 아키텍처
 #### 개발환경
-![Alt text](images/image-4.png)
+![image-4](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/e2489f94-b1e9-43c0-a69c-fc9d07d831af)
 
 ## 아키텍처
 - Django REST Framework & Vue3
 
 ### 1. DB 설계 - ERD 작성
-![Alt text](images/image.png)
+![image](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/a728ca53-b9ad-408b-bbfb-e24e2c0aaedb)
 
 ### 2. 메인 컴포넌트 설계
-![Alt text](images/image-2.png)
+![image-2](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/e3ac2e08-5163-4908-8e8d-2bc519078073)
 
 ### 3. 프론트 설계 - UI/UX 대략적인 구조
-![Alt text](images/image-3.png)
+![image-3](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/df9abf6b-0696-4c62-bf50-675b3f087974)
 
 <br>
 
 # 금융 상품 추천 알고리즘에 대한 기술적 설명
 ## 타겟 인사이트 도출
 - 금융 지식이 부족한 현대인들과 이에 따라 가장 무난한 상품을 투자하는 경향이 두드러짐
-![Alt text](images/image-5.png)
-![Alt text](images/image-6.png)
+![image-5](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/9bad82dc-9c5d-4823-a826-c1db1457d6c2)
+![image-6](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/cd73ec90-c649-4ad3-bcad-cd45cfe5dce6)
 
 - 이는 편승효과(밴드왜건 효과)를 빗대어 설명할 수 있는데, 다수의 소비자나 유행을 따라 상품을 구입하는 현상
 - 특히 해당 분야의 지식이 부족할 때 편승 효과가 커지는 경향이 있음
-![Alt text](images/image-7.png)
-![Alt text](images/image-8.png)
+![image-7](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/140a8d59-89c1-4862-88ab-5a14726a8ee5)
+![image-8](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/0ccae5f7-48cf-42a2-a59a-83e92f44395e)
 
 ## 추천 방법
 - 목표가 주택마련이기 떄문에 본인과 유사한 거주지를 희망하고, 총 자산이 비슷한 사람들은 어떤 상품을 가입했는지 추천
