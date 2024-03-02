@@ -5,8 +5,7 @@
 <br>
 
 # 프로젝트 일정 및 역할 분배
-![Uploading image.png…]()
-
+![image-1](https://github.com/DaewonKim-98/FinancialProductAlgorithm/assets/139425563/5b14c6ad-b03b-44f3-b962-4d7b321be807)
 - 프로젝트 기간에 맞게 단계별로 꾸준히 구현 및 테스트 보완하였습니다.   
 
 <br>
